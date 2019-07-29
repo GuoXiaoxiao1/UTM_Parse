@@ -1,5 +1,4 @@
-# UTM_Parse
-
+# UTM_Projection
 
 # README
 
@@ -51,11 +50,11 @@
 - 经纬度地图的存储文件默认为UTM_LonLat.txt文件，转换后的UTM平面坐标的地图文件默认为UTM_XY.txt文件。因此在需要多次操作保存地图文件时，应先删除上次保存的地图，否则新保存的地图点会以追加的方式补充在原地图文件中。
 - 更多UI界面操作信息与显示信息可参考本实验的实验指导书中示例软件展示部分。
 
-##示例demo
+## 示例demo
 
 ![demo](https://raw.githubusercontent.com/GuoXiaoxiao1/UTM_Parse/master/UTM/UI.png) 
 
-##联系我们
+## 联系我们
 
 如果您有相关实验课件的其他需要，或向我们反馈一些本实验存在的bug,或想向我们提供一些特殊场景的实验数据，请联系我们：
 
